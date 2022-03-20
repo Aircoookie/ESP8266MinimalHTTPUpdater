@@ -10,7 +10,7 @@ Usage:
 
 2. Disconnect your ESP8266 from power, wait a second and reconnect it. This is neccessary due to a reset issue after uploading via the IDE.
 
-3. Use a WiFi-enabled device to connect to the board's WiFi Access Point "UpdateMe". The passwort is "updater1".
+3. Use a WiFi-enabled device to connect to the board's WiFi Access Point "UpdateMe". The password is "updater1".
 
 4. In your browser, type "192.168.4.1" in the address bar. This is the module's IP.
 
